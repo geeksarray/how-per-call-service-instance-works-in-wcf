@@ -12,7 +12,7 @@ A WCF service configured as InstanceContextMode.PerCall will create a dedicated 
 1. PerCall services are highly scalable. Server crash affects to only current ongoing instance and its execution, next calls will be routed to another server.
 1. PerCall services are less expensive than PerSession services as only those objects will be in service memory for whose client call is in process.
 
-For more details on implementation please visit - [WCF Per Call Service](http://localhost:63622/blog/how-per-call-service-instance-works-in-wcf)
+For more details on implementation please visit - [WCF Per Call Service](https://geeksarray.com/blog/how-per-call-service-instance-works-in-wcf)
 
 [WCF Per Call Service](https://github.com/geeksarray/how-per-call-service-instance-works-in-wcf/tree/main/PerCallService) - It is a WCF Service with configuration to create a new instance of service on every request.
 
