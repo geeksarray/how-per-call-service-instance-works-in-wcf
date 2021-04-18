@@ -1,0 +1,5 @@
+C:\Laxmikant\D\Applications\dotnetbloggers - code\PerCallService\PerCallServiceClient\bin\Debug\PerCallServiceClient.exe.config
+C:\Laxmikant\D\Applications\dotnetbloggers - code\PerCallService\PerCallServiceClient\bin\Debug\PerCallServiceClient.exe
+C:\Laxmikant\D\Applications\dotnetbloggers - code\PerCallService\PerCallServiceClient\bin\Debug\PerCallServiceClient.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\PerCallService\PerCallServiceClient\obj\x86\Debug\PerCallServiceClient.exe
+C:\Laxmikant\D\Applications\dotnetbloggers - code\PerCallService\PerCallServiceClient\obj\x86\Debug\PerCallServiceClient.pdb

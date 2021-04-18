@@ -1,0 +1,10 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost:7741/">
+    <file relUrl="bin/PerCallService.pdb" publishTime="11/27/2013 21:50:17" />
+    <file relUrl="PerCallService.ProductService.svc" publishTime="11/27/2013 21:50:24" />
+    <file relUrl="bin/PerCallService.dll" publishTime="11/27/2013 21:50:17" />
+    <file relUrl="Web.config" publishTime="11/26/2013 07:05:49" />
+    <file relUrl="bin/PerCallService.dll.config" publishTime="11/26/2013 07:05:49" />
+    <file relUrl="ProductServiceHost.svc" publishTime="11/26/2013 07:04:44" />
+  </publishTarget>
+</publishData>
